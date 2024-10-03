@@ -13,7 +13,7 @@ const seo = {
   og: {
     title: "Dhiren Mhatre Portfolio",
     type: "website",
-    url: "http://ashutoshhathidara.com/",
+    url: " ",
   },
 };
 
@@ -26,8 +26,8 @@ const greeting = {
     "A passionate individual who always thrives to work on end to end products which develop sustainable and scalable social and technical systems to create impact.",
   resumeLink:
     "https://drive.google.com/file/d/1Ie19I9r8g1G0o_V1ZzuDsGHjpWL6RMam/view?usp=sharing",
-  portfolio_repository: "https://github.com/ashutosh1919/masterPortfolio",
-  githubProfile: "https://github.com/Dhiren-Mhatre",
+  portfolio_repository: "https://github.com/Dhiren-Mhatre/Dhiren_Portfolio",
+  githubProfile: "https://github.com/Dhiren-Mhatre/",
 };
 
 const socialMediaLinks = [
@@ -74,9 +74,11 @@ const skills = {
       title: "Full Stack Development",
       fileName: "FullStackImg",
       skills: [
-        "⚡ Building responsive website front end using React-Redux",
-         
-        "⚡ Creating application backend in Node, Express & Flask",
+        "⚡ Building responsive front-ends with React and Redux for smooth user experiences.",
+
+        "⚡ Creating back-end systems with Node.js, Express, and Flask, ensuring efficient performance.",
+        "⚡ Developing high-performance applications in Go, ideal for distributed systems.",
+        "⚡ Collaborating with Git and GitHub for version control and deployment.",
       ],
       softwareSkills: [
         {
@@ -166,7 +168,6 @@ const skills = {
             color: "#F7DF1E",
           },
         },
-        
 
         {
           skillName: "JavaScript",
@@ -309,10 +310,11 @@ const contactPageData = {
     postalCode: "95129",
     streetAddress: " ",
     avatar_image_path: "address_image.svg",
-    location_map_link: "https://www.google.com/maps/place/Dombivli,+Maharashtra/@19.2094775,73.0171809,12z/data=!3m1!4b1!4m6!3m5!1s0x3be7958ef72d8707:0x84bf6ab96e280b08!8m2!3d19.2094006!4d73.0939483!16zL20vMDN2eXp2?entry=ttu&g_ep=EgoyMDI0MDkzMC4wIKXMDSoASAFQAw%3D%3D",
+    location_map_link:
+      "https://www.google.com/maps/place/Dombivli,+Maharashtra/@19.2094775,73.0171809,12z/data=!3m1!4b1!4m6!3m5!1s0x3be7958ef72d8707:0x84bf6ab96e280b08!8m2!3d19.2094006!4d73.0939483!16zL20vMDN2eXp2?entry=ttu&g_ep=EgoyMDI0MDkzMC4wIKXMDSoASAFQAw%3D%3D",
   },
   phoneSection: {
-    title: "8591253280",
+    title: " ",
     subtitle: "kp064669@gmail.com",
   },
 };
