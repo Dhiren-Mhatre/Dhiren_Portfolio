@@ -1,0 +1,101 @@
+{
+  "data": [
+    {
+      "id": "R_kgDOJWL0-g",
+      "name": "SggsCare",
+      "createdAt": "2024-08-13T04:18:19Z",
+      "url": "https://github.com/Dhiren-Mhatre/SggsCare",
+      "description": "SggsCare is a full-fledged hospital management system designed to streamline hospital operations.",
+      "isFork": false,
+      "languages": [
+        {
+          "name": "React",
+          "iconifyClass": "devicon:react"
+        },
+        {
+          "name": "Mongodb",
+          "iconifyClass": "logos:mongodb-icon"
+        },
+        {
+          "name": "Node.js",
+          "iconifyClass": "fa6-brands:node"
+        },
+        {
+          "name": "Email",
+          "iconifyClass": "arcticons:googlemail"
+        }
+        ,
+        {
+          "name": "Jwt",
+          "iconifyClass": "logos-jwt"
+        }
+      ]
+    },
+    {
+      "id": "R_kgDOG_vYHA",
+      "name": "Speed-O-Meter",
+      "createdAt": "2024-07-13T20:41:33Z",
+      "url": "https://github.com/Dhiren-Mhatre/Dhiren-Mhatre-Speed-O-Meter",
+      "description": "Track Internet Speed and Latency of your Network from Anywhere ,made using Next.js and Electron.js",
+      "isFork": false,
+      "languages": [
+        {
+          "name": "Next",
+          "iconifyClass": "tabler:brand-nextjs"
+        },
+        {
+          "name": "Electron",
+          "iconifyClass": "simple-icons:electron"
+        }
+      ]
+    },
+    {
+      "id": "MDEwOlJlcG9zaXRvcnkyNDU0NjcyNzQ=",
+      "name": "HireUp",
+      "createdAt": "2024-03-06T16:26:54Z",
+      "url": "https://github.com/Dhiren-Mhatre/HireUp1",
+      "description": "HireUp is a Resume Ranking System designed to streamline the recruitment process by leveraging advanced algorithms to rank resumes based on their content and relevance to job descriptions",
+      "isFork": false,
+      "languages": [
+        {
+          "name": "Python",
+          "iconifyClass": "logos-python"
+        },
+        {
+          "name": "Flask",
+          "iconifyClass": "logos-flask"
+        },
+        {
+          "name": "Mongodb",
+          "iconifyClass": "logos:mongodb-icon"
+        },
+        {
+          "name": "Jwt",
+          "iconifyClass": "logos-jwt"
+        }
+      ]
+    },
+    {
+      "id": "R_kgDOG0_8uQ",
+      "name": "RSS Aggregator",
+      "createdAt": "2024-02-11T14:50:20Z",
+      "url": "https://github.com/ashutosh1919/react-awesome-shapes",
+      "description": "It provides a platform for users to follow RSS feeds, collect posts from these feeds, and manage their subscriptions. The application is designed with a robust backend, utilizing the Chi router for handling HTTP requests and SQLC for database queries.",
+      "isFork": false,
+      "languages": [
+        {
+          "name": "GO",
+          "iconifyClass": "logos:go"
+        },
+        {
+          "name": "PostgreSQL",
+          "iconifyClass": "logos:postgresql"
+        },
+        {
+          "name": "Shell",
+          "iconifyClass": "simple-icons:shell"
+        }
+      ]
+    }
+  ]
+}
