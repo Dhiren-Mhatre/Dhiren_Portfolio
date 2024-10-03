@@ -202,7 +202,7 @@ const degrees = {
         "Shri Guru Gobind Singhji Institute of Engineering and Technology (SGGSIET)",
       subtitle: "B.Tech. in Computer Engineering",
       logo_path: "sggs.png",
-      alt_name: "IIITDM Kurnool",
+      alt_name: "SGGSIET",
       duration: "2022 - 2026",
       descriptions: [
         "⚡ I have studied basic software engineering subjects like DS, Algorithms, DBMS, OS, CA, AI etc.",
