@@ -4,8 +4,8 @@ Welcome to my personal portfolio website! This site showcases my skills, project
 
 ## Website Links
 
-- **AWS S3 Hosted URL**: [Dhiren Portfolio on AWS S3](http://dhiren-portfolio.s3-website.eu-north-1.amazonaws.com/)
-- **Vercel Hosted URL**: [Dhiren Portfolio on Vercel](https://dhiren-portfolio.vercel.app/)
+- **AWS S3 Hosted URL**: [ Portfolio on AWS S3](http://dhiren-portfolio.s3-website.eu-north-1.amazonaws.com/)
+- **Vercel Hosted URL**: [Portfolio on Vercel](https://dhiren-portfolio.vercel.app/)
 
 ## Overview
 
