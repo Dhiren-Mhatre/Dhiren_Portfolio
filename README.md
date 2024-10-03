@@ -38,12 +38,12 @@ This portfolio presents a brief introduction about me, my education, work experi
 
 Here are some of the key projects that I've worked on:
 
-- **[SggsCare](#)**: A hospital management system that streamlines hospital operations. Created on 2024-08-13.
+- **[SggsCare](https://github.com/Dhiren-Mhatre/SggsCare)**: A hospital management system that streamlines hospital operations. Created on 2024-08-13.
   
-- **[Speed-O-Meter](#)**: A network speed and latency tracking app built using Next.js and Electron.js. Created on 2024-07-13.
+- **[Speed-O-Meter](https://github.com/Dhiren-Mhatre/Dhiren-Mhatre-Speed-O-Meter)**: A network speed and latency tracking app built using Next.js and Electron.js. Created on 2024-07-13.
   
-- **[HireUp](#)**: A resume ranking system to streamline the recruitment process by ranking resumes based on job relevance. Created on 2024-03-06.
+- **[HireUp](https://github.com/Dhiren-Mhatre/HireUp1)**: A resume ranking system to streamline the recruitment process by ranking resumes based on job relevance. Created on 2024-03-06.
   
-- **[RSS Aggregator](#)**: An RSS feed aggregator with a robust backend built using Chi router and SQLC for database queries. Created on 2024-02-11.
+- **[RSS Aggregator](https://github.com/Dhiren-Mhatre/RSS-Aggregator)**: An RSS feed aggregator with a robust backend built using Chi router and SQLC for database queries. Created on 2024-02-11.
 
  
