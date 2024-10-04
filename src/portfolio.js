@@ -25,7 +25,7 @@ const greeting = {
   subTitle:
     "A passionate individual who always thrives to work on end to end products which develop sustainable and scalable social and technical systems to create impact.",
   resumeLink:
-    "https://drive.google.com/file/d/1Ie19I9r8g1G0o_V1ZzuDsGHjpWL6RMam/view?usp=sharing",
+    "https://drive.google.com/file/d/1IyuPjUd1DteCtmILVFsbZNIFBYGkCPYm/view?usp=sharing",
   portfolio_repository: "https://github.com/Dhiren-Mhatre/Dhiren_Portfolio",
   githubProfile: "https://github.com/Dhiren-Mhatre/",
 };
