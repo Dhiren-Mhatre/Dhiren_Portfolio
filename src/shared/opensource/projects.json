@@ -2,6 +2,37 @@
   "data": [
     {
       "id": "R_kgDOJWL0-g",
+      "name": "ERP For TnP",
+      "createdAt": "2024-10-1T04:18:19Z",
+      "url": "https://github.com/Dhiren-Mhatre/UserInterface1",
+      "description": "This website will be used by our college and we plan to outsource it for many other colleges.",
+      "isFork": false,
+      "languages": [
+        {
+          "name": "React",
+          "iconifyClass": "devicon:react"
+        },
+        {
+          "name": "Mongodb",
+          "iconifyClass": "logos:mongodb-icon"
+        },
+        {
+          "name": "Node.js",
+          "iconifyClass": "fa6-brands:node"
+        },
+        {
+          "name": "Email",
+          "iconifyClass": "arcticons:googlemail"
+        }
+        ,
+        {
+          "name": "Jwt",
+          "iconifyClass": "logos-jwt"
+        }
+      ]
+    },
+    {
+      "id": "R_kgDOJWL0-g",
       "name": "SggsCare",
       "createdAt": "2024-08-13T04:18:19Z",
       "url": "https://github.com/Dhiren-Mhatre/SggsCare",
