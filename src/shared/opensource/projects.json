@@ -110,7 +110,7 @@
       "id": "R_kgDOG0_8uQ",
       "name": "RSS Aggregator",
       "createdAt": "2024-02-11T14:50:20Z",
-      "url": "https://github.com/ashutosh1919/react-awesome-shapes",
+      "url": "https://github.com/Dhiren-Mhatre/RSS-Aggregator",
       "description": "It provides a platform for users to follow RSS feeds, collect posts from these feeds, and manage their subscriptions. The application is designed with a robust backend, utilizing the Chi router for handling HTTP requests and SQLC for database queries.",
       "isFork": false,
       "languages": [
