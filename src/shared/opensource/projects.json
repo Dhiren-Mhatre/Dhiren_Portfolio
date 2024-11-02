@@ -21,8 +21,8 @@
           "iconifyClass": "fa6-brands:node"
         },
         {
-          "name": "Email",
-          "iconifyClass": "arcticons:googlemail"
+          "name": "Socket.io",
+          "iconifyClass": "logos-socketio"
         }
         ,
         {
@@ -59,6 +59,33 @@
         {
           "name": "Jwt",
           "iconifyClass": "logos-jwt"
+        }
+      ]
+    },
+    {
+      "id": "R_kgDOG_vYHA",
+      "name": "MERN-Chat",
+      "createdAt": "2024-11-10T20:41:33Z",
+      "url": "mern-chat-client-eta.vercel.app",
+      "description": "Real-time updates to conversation messages, user online/ offline, read/ unread status, user join/leave room to notify, etc.",
+      "isFork": false,
+      "languages": [
+        {
+          "name": "React",
+          "iconifyClass": "devicon:react"
+        },
+        {
+          "name": "Mongodb",
+          "iconifyClass": "logos:mongodb-icon"
+        },
+        {
+          "name": "Node.js",
+          "iconifyClass": "fa6-brands:node"
+        },
+   
+        {
+          "name": "Socket.io",
+          "iconifyClass": "devicon:socketio"
         }
       ]
     },

@@ -117,6 +117,13 @@ const skills = {
           },
         },
         {
+          skillName: "Socket.io",
+          fontAwesomeClassname: "devicon:socketio",
+          style: {
+            color: "#61DAFB",
+          },
+        },
+        {
           skillName: "PostgreSQL",
           fontAwesomeClassname: "simple-icons:postgresql",
           style: {
