@@ -248,6 +248,18 @@ const experience = {
       work: true,
       experiences: [
         {
+          title: "Full Stack Developer",
+          company: "DigiFuture Labs Private Limited",
+          company_url:
+            "https://www.linkedin.com/company/digifuture-labs-private-limited/posts/?feedView=all",
+          logo_path: "digifuture.png",
+          duration: "Oct 2024 - Present",
+
+          description:
+            "Developed features for two projects using MERN stack. Projects: Astrology App Built user profile management, including date, time, and place of birth details. Implemented authentication, admin controls, and seamless user experience. Fish Market Platform Developed a marketplace for listing, buying, and managing fish stocks. Integrated real-time stock updates and optimized backend queries for efficiency..",
+          color: "#000000",
+        },
+        {
           title: "Web Developer",
           company: "T&P Cell, Nanded,",
           company_url:
