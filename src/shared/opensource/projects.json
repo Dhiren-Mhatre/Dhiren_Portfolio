@@ -66,7 +66,7 @@
       "id": "R_kgDOG_vYHA",
       "name": "MERN-Chat",
       "createdAt": "2024-11-10T20:41:33Z",
-      "url": "mern-chat-client-eta.vercel.app",
+      "url": "https://mern-chat-client-eta.vercel.app",
       "description": "Real-time updates to conversation messages, user online/ offline, read/ unread status, user join/leave room to notify, etc.",
       "isFork": false,
       "languages": [
